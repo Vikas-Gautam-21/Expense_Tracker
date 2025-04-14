@@ -1,0 +1,1 @@
+C:\Users\gauta\OneDrive\Documents\Flutter Projects\Expense_Tracker\build\app\intermediates\cxx\Debug\6tfe1y5d\obj\arm64-v8a

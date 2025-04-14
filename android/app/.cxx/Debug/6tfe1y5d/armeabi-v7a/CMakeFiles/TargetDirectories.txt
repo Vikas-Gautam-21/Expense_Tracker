@@ -1,0 +1,2 @@
+C:/Users/gauta/OneDrive/Documents/Flutter Projects/Expense_Tracker/android/app/.cxx/Debug/6tfe1y5d/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/gauta/OneDrive/Documents/Flutter Projects/Expense_Tracker/android/app/.cxx/Debug/6tfe1y5d/armeabi-v7a/CMakeFiles/rebuild_cache.dir
